@@ -68,7 +68,7 @@ export function Sidebar({ open, onClose, onNavigate, currentPage }: SidebarProps
               <AvatarImage src="/admybrand.jpg" />
               <AvatarFallback>AD</AvatarFallback>
             </Avatar>
-            <span className="font-medium">ADmyBRAND Insights</span>
+            <span className="font-medium">ADmyBRAND</span>
           </div>
 
           {/* Navigation */}
