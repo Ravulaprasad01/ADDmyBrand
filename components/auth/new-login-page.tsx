@@ -499,7 +499,7 @@ export function NewLoginPage() {
                       </Button>
                     </form>
                     <div className="text-xs text-center text-blue-500 mt-2">
-                      Forgot your password? <a href="#" className="underline hover:text-blue-700 transition">Reset here</a>
+                      Verify Your E-mail!! <a href="#" className="underline hover:text-blue-700 transition"> After Sign Up</a>
                     </div>
                   </TabsContent>
                   <TabsContent value="signup" className="space-y-4 animate-in fade-in-50 slide-in-from-bottom-3 duration-700 delay-400">
