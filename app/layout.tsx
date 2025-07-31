@@ -5,10 +5,9 @@ import { ThemeProvider } from 'next-themes'
 import { AuthProvider } from '@/contexts/auth-context'
 import './globals.css'
 
-export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+export const metadata = {
+  title: "ADmyBRAND",
+  description: "A fictional analytics platform",
 }
 
 export default function RootLayout({
